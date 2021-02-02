@@ -21,5 +21,5 @@ int main(){
 	printf("%f\n", f ); 
 	printf("%lf\n", g ); 
 	printf("%Lf\n", h ); 
-
+	return 0;
 }
